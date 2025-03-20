@@ -32,3 +32,25 @@ If you want to test the website on your local machine:
 1. Clone this repository:  
    ```sh
    git clone https://github.com/YOUR_GITHUB_USERNAME/turtlechain.git
+---
+
+## 🛠 Want to Contribute?
+We welcome contributions! Feel free to fork the repository or reach out to collaborate. 🚀
+
+---
+
+### Local Development
+If you want to test the website on your local machine:
+
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/trtchain/turtlechain.git
+
+
+
+
+
+
+
+
+
