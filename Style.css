@@ -63,3 +63,20 @@ footer {
     padding: 20px;
     background: rgba(0, 0, 0, 0.7);
 }
+.content {
+    padding: 50px;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    max-width: 800px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+h1, h2 {
+    color: #FFD700;
+}
+
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
