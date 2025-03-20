@@ -1,3 +1,4 @@
+<meta http-equiv="refresh" content="0; URL='index.html'" />
 # 🐢 Turtle Chain – The Future of Blockchain and Real Estate  
 
 Turtle Chain is a blockchain network designed to integrate real estate investments with decentralized finance (DeFi).  
